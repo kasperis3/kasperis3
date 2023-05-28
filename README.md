@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a software engineer with multiple years of experience working in Javascript, Go and a variety of frameworks. I have a
 background in mathematics and I have extensive experience with AWS. 
 
-I am a co-creator of [Otter](https://otter-framework.dev), an open-source serverless framework that enables peer-to-peer video communication within web applications.
+I am a co-creator of [Otter](https://otter-framework.dev), an open-source serverless framework that enables peer-to-peer video communication within web applications where privacy is of the utmost importance.
 
 Curiosity is my superpower. I'm a relentless question-asker & lifelong learner on a journey to improve myself & the world.
 
